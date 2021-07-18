@@ -1,0 +1,54 @@
+Radical SR3
+
+3d Modelling - Nays Wilson
+Liveries - Plank Liveries
+Templates - Plank Liveries
+Physics - Shaun Clarke
+Textures - Plank Liveries & Shaun Clarke
+
+V1.1
+Decreased Brake Bias
+Decreased Brake NM Pressure
+Cleaned Setup
+Improved Setup changes (more scope)
+Increased Headlight Brightness
+Lowered over call by few MM
+Templates - with instructions
+
+V1.2
+New Front
+New Front Head lights
+New Rear
+New Rear Brake / lights
+Improved Gearing
+Improved FFB
+Improved Power / Torgue Values
+Addded RHD Version
+Improved Camera Angles
+
+V1.3
+Updated Power and Gearing
+Improved Dash rev lights
+Dimmed Dash lights slightly
+
+V1.4
+Corrected Idle Revs
+Reduced Brake Pressue
+Fixed Digital Intruments (floating) thanks to Masscot for this.
+Made it searchable via LMP3
+Changed Gear Flash
+
+Special Thanks to Kevin Burke, Radical SR3 driver in helping me improve this
+using his real MOTEC data as comparison
+
+V1.5
+3d Model update,fixes,Optimisations - Norms
+LODS Optimisation (10-15% improvemnt) Norms
+Skins by Xedrox / MRBOO
+New AIM and Dash with new data and embossed logos - Norms
+Changes to rear brake lights - Shaun Clarke / Norms
+Shader and texture improvements - Norms
+New 4K templates with skinable rear wing - Norms
+VR Checking - Masscot
+Increase starting fuel load (as tested 30L will not get you far)
+Adjusted Dash Cam
